@@ -1,0 +1,32 @@
+{
+  "name": "gloop",
+  "version": "1.0.0",
+  "description": "Gloop Starter",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekfanboy/gloop.git"
+  },
+  "keywords": [
+    "angularjs",
+    "starter",
+    "basic"
+  ],
+  "author": "geekfanboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekfanboy/gloop/issues"
+  },
+  "homepage": "https://github.com/geekfanboy/gloop#readme"
+}
